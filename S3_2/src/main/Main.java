@@ -1,6 +1,6 @@
 package main;
 
-import factory.method.*;
+import factorymethod.*;
 
 public class Main {
 

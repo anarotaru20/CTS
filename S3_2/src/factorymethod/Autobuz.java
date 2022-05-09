@@ -1,4 +1,4 @@
-package factory.method;
+package factorymethod;
 
 public class Autobuz extends MijlocTransport {
 
